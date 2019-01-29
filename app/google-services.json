@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "402471432037",
+    "firebase_url": "https://memowebapp-aec1e.firebaseio.com",
+    "project_id": "memowebapp-aec1e",
+    "storage_bucket": "memowebapp-aec1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402471432037:android:899fb4bbe195f4ae",
+        "android_client_info": {
+          "package_name": "com.hoon.firenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402471432037-con6e9cujpos6hge69cmbgej5sfdlnie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNZQxTnT1-shOdxv82PAmyPGpY3kyHASQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402471432037:android:a6c6831c56dfd780",
+        "android_client_info": {
+          "package_name": "com.hoon.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402471432037-con6e9cujpos6hge69cmbgej5sfdlnie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNZQxTnT1-shOdxv82PAmyPGpY3kyHASQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
